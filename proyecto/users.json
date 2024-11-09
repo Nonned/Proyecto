@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "email": "juan@example.com",
+        "password": "12345",
+        "check_in": "2024-10-23T11:24:44.668213",
+        "check_out": "2024-10-23T10:41:18.698658"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "email": "bob@example.com",
+        "password": "2412",
+        "check_in": "2024-10-22 10:36:48",
+        "check_out": null
+    }
+]
